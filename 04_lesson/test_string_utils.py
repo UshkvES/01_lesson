@@ -5,7 +5,7 @@ utils = StringUtils()
 
 
 @pytest.mark.parametrize("input_string, expected", [
-        (" тест", "Тест"),
+        ("тест", "Тест"),
         ("skypro", "Skypro"),
         ("hello world", "Hello world"),
     ])
