@@ -1,7 +1,7 @@
 from YougileApi import YougileApi
 import pytest
 
-TOKEN = 'ptRJDBJ2sf9BDBPLsOD1kIYvWYwY5zipJibKdXm5uENNuzRBy6OZMkaUDlN7Ndvh'
+TOKEN = 'ВАШ ТОКЕН'
 
 api = YougileApi("https://yougile.com", token=TOKEN)
 
